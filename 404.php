@@ -1,0 +1,1 @@
+<h1 class="mt-4">Halaman Error 404</h1>
